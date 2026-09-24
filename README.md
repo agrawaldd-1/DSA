@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/agrawaldd-1/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/agrawaldd-1/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2326-spiral-matrix-iv](https://github.com/agrawaldd-1/DSA/tree/master/2326-spiral-matrix-iv) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/agrawaldd-1/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/agrawaldd-1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0523-continuous-subarray-sum](https://github.com/agrawaldd-1/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/agrawaldd-1/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/agrawaldd-1/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/agrawaldd-1/DSA/tree/master/2326-spiral-matrix-iv) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/agrawaldd-1/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
