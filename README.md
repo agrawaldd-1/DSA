@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/agrawaldd-1/DSA/tree/master/0002-add-two-numbers) |
+| [0382-linked-list-random-node](https://github.com/agrawaldd-1/DSA/tree/master/0382-linked-list-random-node) |
 | [0523-continuous-subarray-sum](https://github.com/agrawaldd-1/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/agrawaldd-1/DSA/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0234-palindrome-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/agrawaldd-1/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/agrawaldd-1/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
