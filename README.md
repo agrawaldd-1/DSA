@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/agrawaldd-1/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0622-design-circular-queue](https://github.com/agrawaldd-1/DSA/tree/master/0622-design-circular-queue) |
 | [0930-binary-subarrays-with-sum](https://github.com/agrawaldd-1/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2326-spiral-matrix-iv](https://github.com/agrawaldd-1/DSA/tree/master/2326-spiral-matrix-iv) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/agrawaldd-1/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/agrawaldd-1/DSA/tree/master/0382-linked-list-random-node) |
+| [0622-design-circular-queue](https://github.com/agrawaldd-1/DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/agrawaldd-1/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/agrawaldd-1/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/agrawaldd-1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/agrawaldd-1/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/agrawaldd-1/DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/agrawaldd-1/DSA/tree/master/0933-number-of-recent-calls) |
 ## Recursion
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/agrawaldd-1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/agrawaldd-1/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/agrawaldd-1/DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/agrawaldd-1/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
