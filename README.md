@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/agrawaldd-1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/agrawaldd-1/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/agrawaldd-1/DSA/tree/master/0622-design-circular-queue) |
+| [0739-daily-temperatures](https://github.com/agrawaldd-1/DSA/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/agrawaldd-1/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [2326-spiral-matrix-iv](https://github.com/agrawaldd-1/DSA/tree/master/2326-spiral-matrix-iv) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/agrawaldd-1/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/agrawaldd-1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/agrawaldd-1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrawaldd-1/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/agrawaldd-1/DSA/tree/master/0739-daily-temperatures) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -152,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/agrawaldd-1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrawaldd-1/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/agrawaldd-1/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
