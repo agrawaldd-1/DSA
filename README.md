@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/agrawaldd-1/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/agrawaldd-1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/agrawaldd-1/DSA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/agrawaldd-1/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/agrawaldd-1/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -144,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/agrawaldd-1/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/agrawaldd-1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/agrawaldd-1/DSA/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/agrawaldd-1/DSA/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/agrawaldd-1/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/agrawaldd-1/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/agrawaldd-1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/agrawaldd-1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/agrawaldd-1/DSA/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/agrawaldd-1/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
