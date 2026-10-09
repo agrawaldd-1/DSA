@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/agrawaldd-1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/agrawaldd-1/DSA/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/agrawaldd-1/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/agrawaldd-1/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2326-spiral-matrix-iv](https://github.com/agrawaldd-1/DSA/tree/master/2326-spiral-matrix-iv) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/agrawaldd-1/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/agrawaldd-1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/agrawaldd-1/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/agrawaldd-1/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Linked List
 |  |
 | ------- |
