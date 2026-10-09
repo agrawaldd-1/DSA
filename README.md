@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/agrawaldd-1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/agrawaldd-1/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/agrawaldd-1/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/agrawaldd-1/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/agrawaldd-1/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/agrawaldd-1/DSA/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/agrawaldd-1/DSA/tree/master/0394-decode-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/agrawaldd-1/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bracket Sequences
 |  |
 | ------- |
